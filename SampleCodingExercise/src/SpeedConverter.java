@@ -15,7 +15,7 @@ Second method:    Write another  method called printConversion with 1 parameter 
                   All methods should be defined as public static
                   1 mile per hous is 1.609 kilometers per hour
                   
-/*****************************************************CODE*********************************************************************************************
+*****************************************************CODE*********************************************************************************************/
 
 public class SpeedConverter {
 
